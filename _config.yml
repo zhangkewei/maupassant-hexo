@@ -47,7 +47,7 @@ menu:
  # - page: about
  #   directory: about/
  #   icon: fa-user
-  - page: Github 
+  - page: github 
     directory: https://github.com/zhangkewei
     icon: icon-tree
     target: _blank
